@@ -1,9 +1,8 @@
+console.log('I hate you');
+
+console.log('moataz');
+
+let x=100;
 
 
-
-
-
-
-
-const y=100;
 

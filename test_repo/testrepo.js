@@ -3,8 +3,8 @@ console.log('hello world version 3')
 
 
 
-const x=5;
-const y=100;
-function add(x,y){
-return x+y;
+const w=5;
+const s=100;
+function add(w,s){
+return w+s;
 }

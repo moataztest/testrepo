@@ -5,5 +5,6 @@
 
 
 
-const y=100;
+
+const y=10;
 

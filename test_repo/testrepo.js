@@ -6,3 +6,9 @@ let x=100;
 
 const z=30;
 
+
+
+
+
+const y=10;
+

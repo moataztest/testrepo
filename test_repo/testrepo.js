@@ -4,5 +4,5 @@ console.log('moataz');
 
 let x=100;
 
-
+const z=30;
 
